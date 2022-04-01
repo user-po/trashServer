@@ -1,0 +1,29 @@
+[2022-03-24T12:19:48.578] [ERROR] error - Error: invalid JSON, only supports object and array
+    at parse (C:\manager-server\node_modules\koa-body\node_modules\co-body\lib\json.js:60:13)
+    at C:\manager-server\node_modules\koa-body\node_modules\co-body\lib\json.js:45:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-24T15:16:05.149] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-24T15:17:11.084] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)

@@ -1,0 +1,363 @@
+[2022-03-16T19:54:13.974] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T19:54:54.168] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T19:55:37.376] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T19:55:43.613] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T19:56:21.507] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T19:57:51.778] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T19:59:27.382] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:01:43.318] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:02:53.099] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:03:58.372] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:04:03.851] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:04:13.046] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:04:15.947] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:05:08.637] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:05:18.964] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:05:32.559] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:06:37.350] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:08:09.107] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:08:41.352] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:09:33.557] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:10:22.666] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:11:29.735] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:13:54.339] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:15:43.757] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:16:02.501] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:18:14.113] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:19:52.497] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:21:18.060] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:23:52.728] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:25:02.008] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:26:07.482] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:26:42.187] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-16T20:26:47.396] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:243:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16

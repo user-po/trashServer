@@ -1,0 +1,65 @@
+[2022-03-09T15:37:24.376] [ERROR] error - ReferenceError: Cannot access 'user' before initialization
+    at C:\manager-server\routes\user.js:53:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-09T15:38:14.205] [ERROR] error - ReferenceError: jwt is not defined
+    at C:\manager-server\routes\user.js:61:18
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-09T21:39:16.970] [ERROR] error - TypeError: Cannot read properties of null (reading 'count')
+    at C:\manager-server\routes\money.js:49:32
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-09T21:39:33.464] [ERROR] error - TypeError: Cannot read properties of null (reading 'isServicer')
+    at C:\manager-server\routes\money.js:25:14
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-09T21:39:46.335] [ERROR] error - TypeError: Cannot read properties of null (reading 'isServicer')
+    at C:\manager-server\routes\money.js:25:14
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-09T21:46:14.082] [ERROR] error - TypeError: Cannot read properties of null (reading 'isServicer')
+    at C:\manager-server\routes\money.js:25:14
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-09T21:47:21.442] [ERROR] error - ReferenceError: api is not defined
+    at C:\manager-server\routes\money.js:47:18
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-09T23:55:08.474] [ERROR] error - TypeError: Cannot read properties of null (reading 'count')
+    at C:\manager-server\routes\money.js:19:42
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-09T23:55:57.767] [ERROR] error - TypeError: Cannot read properties of null (reading 'count')
+    at C:\manager-server\routes\money.js:19:42
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-09T23:56:18.579] [ERROR] error - TypeError: Cannot read properties of null (reading 'count')
+    at C:\manager-server\routes\money.js:19:35
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)

@@ -1,0 +1,2265 @@
+[2022-03-18T01:30:43.445] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:19:27.489] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:19:27.535] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:19:27.623] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:19:27.707] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:19:27.862] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:19:27.929] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:19:27.996] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:19:28.046] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:19:28.097] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:33:35.077] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:34:52.097] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:34:56.749] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T02:48:42.732] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T03:38:43.429] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T03:40:18.963] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T03:52:23.929] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T03:52:53.189] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T03:54:04.896] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T03:54:08.393] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T04:23:38.622] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:33:29.103] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:39:05.927] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:39:09.659] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:39:10.411] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:39:17.086] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:42:00.525] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:44:42.848] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:44:53.121] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:45:07.827] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:45:07.881] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:45:07.885] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:45:32.718] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:45:34.740] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:45:35.357] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:46:03.845] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:46:03.852] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:46:03.859] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T05:58:11.517] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T05:59:05.510] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T05:59:58.429] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:00:47.796] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:01:18.028] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:05:08.090] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:06:32.983] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:06:50.615] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:06:57.587] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:07:47.895] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:08:00.255] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:08:03.238] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:08:19.473] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:09:06.108] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:09:14.534] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:10:57.124] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:11:59.691] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:12:03.751] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:12:16.978] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:12:33.671] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:12:33.711] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:12:33.733] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:12:40.728] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:12:41.408] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:12:42.228] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:13:35.408] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:13:45.349] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:13:47.104] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:14:28.640] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:14:37.921] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:14:41.862] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:14:55.255] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:15:35.386] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T06:15:43.523] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:15:59.543] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:16:21.750] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:16:21.802] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:16:21.815] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:16:28.270] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:16:40.719] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:17:52.712] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:17:53.204] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:17:59.191] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:19:39.338] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:20:10.546] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:20:23.311] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:21:27.925] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:22:20.207] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:36:35.490] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:56:48.715] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:56:57.091] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:57:26.202] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:57:27.671] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:57:29.502] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:58:04.852] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:58:04.888] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:58:05.184] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:58:13.618] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:58:14.167] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:58:33.561] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:58:50.821] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:58:53.518] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T06:59:15.968] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:01:03.012] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'openid')
+    at C:\manager-server\routes\mission.js:77:69
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-18T07:07:07.635] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:14:43.132] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:18:42.021] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:20:15.346] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:21:02.179] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:22:12.185] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:23:29.718] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:24:23.433] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:25:06.744] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:25:21.937] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:26:07.263] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:26:31.341] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:26:41.937] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:28:33.014] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:28:43.840] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:29:20.849] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:29:50.668] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:30:05.277] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:30:15.977] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:30:48.346] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:32:26.483] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:32:34.900] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:33:20.167] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:36:43.713] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:44:30.467] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:46:14.502] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:47:01.479] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:48:31.588] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:48:55.188] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:50:29.205] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:51:31.422] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:52:09.487] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:52:45.180] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:53:06.014] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:53:10.351] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:53:31.108] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:53:59.554] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:54:21.380] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:55:06.992] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:55:13.756] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:56:41.879] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:57:00.187] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:58:17.175] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T07:58:53.865] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:00:27.960] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:02:00.827] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:02:32.505] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:03:05.655] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:03:33.876] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:03:38.913] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:04:21.148] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:05:16.762] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:05:35.883] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:11:33.918] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:11:55.641] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T08:31:21.635] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T09:47:15.160] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T09:47:19.798] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T09:49:44.826] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:44.860] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:44.889] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:44.917] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:44.945] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:44.984] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:45.024] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:45.054] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:45.094] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:45.123] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:45.153] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:45.182] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:45.210] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:45.239] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:45.268] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:46.000] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:46.430] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:46.559] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:46.598] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:46.636] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:46.664] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:47.082] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:47.121] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:47.150] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:47.790] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:48.429] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:48.559] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:48.786] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:48.878] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:48.908] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:48.936] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:48.965] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:48.995] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:49.837] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:49.867] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:49.900] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:50.229] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:50.258] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:50.488] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:50.717] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:50.891] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:50.921] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:51.651] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:51.960] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:51.990] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:52.028] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:52.558] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:52.664] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:52.702] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:52.991] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:53.220] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:53.464] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:53.830] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:54.197] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:54.426] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:54.656] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:54.785] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:54.813] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:54.841] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:54.870] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:55.601] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:55.831] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:55.962] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:56.621] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:56.862] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:56.992] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:57.220] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:57.449] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:57.578] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:57.818] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:58.047] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:58.077] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:58.108] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:58.149] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:58.778] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:59.019] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:59.123] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:59.151] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:59.179] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:59.208] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:59.238] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:49:59.968] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:00.197] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:00.758] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:00.987] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:01.279] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:01.310] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:01.339] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:01.377] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:01.406] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:02.246] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:02.578] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:03.036] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:03.165] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:03.305] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:03.435] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:03.775] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:04.004] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:04.234] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:04.511] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:04.642] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:04.781] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:05.011] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:05.241] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:05.371] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:05.600] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:05.829] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:05.958] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:06.188] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:06.417] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:06.645] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:06.773] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:07.003] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:07.233] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:07.363] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:50:07.592] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T09:52:01.546] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T09:52:06.216] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T09:55:17.794] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T09:56:46.348] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T09:57:24.775] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T09:57:31.137] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:00:17.774] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:00:28.885] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:02:25.216] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:05:32.768] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:08:04.186] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:08:38.953] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:09:14.247] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:24.916] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:29.974] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:30.960] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:32.136] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:33.115] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:34.229] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:35.199] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:36.300] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:37.293] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:38.416] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:39.418] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:40.545] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:41.581] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:42.713] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:36:43.719] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:37:54.716] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T10:46:20.556] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T11:00:21.522] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T11:02:46.396] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:75:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T11:02:51.656] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:75:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T11:03:01.495] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:75:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T11:03:10.114] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:75:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T11:03:13.344] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:75:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T11:03:23.337] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:75:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T11:03:30.784] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:75:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T11:03:38.134] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:75:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T11:03:41.615] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:75:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-18T11:05:44.773] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T11:11:38.562] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T11:11:52.456] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T11:12:55.449] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T11:15:01.654] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T11:15:03.493] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T11:29:18.307] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T11:35:06.413] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T11:40:56.108] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T11:48:34.318] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T12:20:41.277] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T12:37:49.063] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T13:27:40.974] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T14:04:55.607] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T14:13:25.110] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T14:27:10.554] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T14:31:16.262] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T15:12:07.775] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T15:21:40.185] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T15:42:07.286] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T16:13:46.671] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T16:28:04.428] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T16:46:56.803] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T17:15:11.891] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T17:29:24.859] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T17:41:39.852] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T17:56:19.408] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T18:13:48.252] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T18:49:32.624] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T19:13:47.297] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T19:54:53.578] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T19:58:50.242] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T20:02:08.335] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T20:07:03.559] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T20:42:42.368] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T20:56:51.850] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T21:09:50.632] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T21:09:50.902] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T21:19:13.332] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T21:19:13.536] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T21:19:13.838] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T22:02:02.879] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T22:06:51.681] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T22:11:15.816] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T22:13:49.706] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-18T22:14:29.749] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T22:50:56.839] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T23:17:43.729] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T23:17:43.750] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T23:17:43.764] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T23:17:43.768] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T23:17:43.771] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T23:42:31.790] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-18T23:44:32.491] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3

@@ -1,0 +1,2 @@
+[2022-03-15T17:55:31.409] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)

@@ -1,0 +1,22 @@
+[2022-02-22T21:05:54.092] [ERROR] error - JsonWebTokenError: jwt must be provided
+    at Object.module.exports [as verify] (C:\TrashManager\manger-server\node_modules\jsonwebtoken\verify.js:53:17)
+    at Object.decoded (C:\TrashManager\manger-server\utils\util.js:146:18)
+    at C:\TrashManager\manger-server\routes\mission.js:178:28
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+[2022-02-22T21:05:54.320] [ERROR] error - JsonWebTokenError: jwt must be provided
+    at Object.module.exports [as verify] (C:\TrashManager\manger-server\node_modules\jsonwebtoken\verify.js:53:17)
+    at Object.decoded (C:\TrashManager\manger-server\utils\util.js:146:18)
+    at C:\TrashManager\manger-server\routes\mission.js:178:28
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)

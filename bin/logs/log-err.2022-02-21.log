@@ -1,0 +1,44 @@
+[2022-02-21T17:43:31.583] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\TrashManager\manger-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\TrashManager\manger-server\routes\token.js:56:20
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-02-21T17:43:31.859] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\TrashManager\manger-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\TrashManager\manger-server\routes\token.js:56:20
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-02-21T17:43:48.616] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\TrashManager\manger-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\TrashManager\manger-server\routes\token.js:56:20
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-02-21T17:43:48.861] [ERROR] error - JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (C:\TrashManager\manger-server\node_modules\jsonwebtoken\verify.js:63:17)
+    at C:\TrashManager\manger-server\routes\token.js:56:20
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\TrashManager\manger-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\TrashManager\manger-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)

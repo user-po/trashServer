@@ -1,0 +1,84 @@
+[2022-03-20T11:49:53.814] [ERROR] error - SyntaxError: Unexpected token  in JSON at position 82
+    at JSON.parse (<anonymous>)
+    at parse (C:\manager-server\node_modules\koa-body\node_modules\co-body\lib\json.js:62:17)
+    at C:\manager-server\node_modules\koa-body\node_modules\co-body\lib\json.js:45:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-20T17:10:06.081] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-20T17:40:57.555] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-20T17:41:00.057] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-20T17:41:00.062] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-20T17:41:00.065] [ERROR] error - Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)
+[2022-03-20T17:44:42.766] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-20T18:04:57.819] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-20T18:04:59.816] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-20T18:05:00.525] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-20T18:05:02.296] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-20T18:05:09.326] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)

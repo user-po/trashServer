@@ -1,0 +1,14 @@
+[2022-03-13T12:42:09.944] [ERROR] error - ReferenceError: ctx is not defined
+    at C:\manager-server\routes\payOrder.js:47:41
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-13T12:49:20.284] [ERROR] error - Error: out_trade_no and transaction_id参数格式错误
+    at Payment._parse (C:\manager-server\node_modules\tenpay\lib\index.js:89:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

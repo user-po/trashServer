@@ -1,0 +1,55 @@
+[2022-03-31T01:44:17.902] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-31T01:44:25.329] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-31T01:44:54.805] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-31T12:03:38.301] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:76:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+[2022-03-31T12:37:20.934] [ERROR] error - ReferenceError: fail is not defined
+    at Object.decoded (C:\manager-server\utils\util.js:162:9)
+    at C:\manager-server\routes\mission.js:76:26
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)

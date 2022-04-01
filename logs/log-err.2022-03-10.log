@@ -1,0 +1,12 @@
+[2022-03-10T12:09:25.366] [ERROR] error - Error: Parse Error: Invalid method encountered
+[2022-03-10T12:09:35.906] [ERROR] error - ForbiddenError: Forbidden
+    at resolvePath (C:\manager-server\node_modules\resolve-path\index.js:83:11)
+    at send (C:\manager-server\node_modules\koa-send\index.js:81:10)
+    at serve (C:\manager-server\node_modules\koa-static\index.js:44:24)
+    at dispatch (C:\manager-server\node_modules\koa-compose\index.js:42:32)
+    at cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:15)
+    at dispatch (C:\manager-server\node_modules\koa-compose\index.js:42:32)
+    at C:\manager-server\node_modules\koa-compose\index.js:34:12
+    at Application.handleRequest (C:\manager-server\node_modules\koa\lib\application.js:168:12)
+    at Server.handleRequest (C:\manager-server\node_modules\koa\lib\application.js:150:19)
+    at Server.emit (node:events:520:28)

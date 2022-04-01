@@ -1,0 +1,387 @@
+[2022-03-17T13:15:30.905] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-17T13:15:38.288] [ERROR] error - TokenExpiredError: jwt expired
+    at C:\manager-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (C:\manager-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\manager-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at C:\manager-server\routes\token.js:61:20
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+[2022-03-17T18:56:44.493] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'genUserSig')
+    at C:\manager-server\routes\userSig.js:12:23
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T18:57:34.130] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'genUserSig')
+    at C:\manager-server\routes\userSig.js:13:23
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T18:58:02.346] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'genUserSig')
+    at C:\manager-server\routes\userSig.js:13:23
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T19:00:13.033] [ERROR] error - ReferenceError: util is not defined
+    at C:\manager-server\routes\userSig.js:14:14
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T19:01:35.090] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'genUserSig')
+    at C:\manager-server\routes\userSig.js:13:23
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T19:01:57.617] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'prototype')
+    at C:\manager-server\routes\userSig.js:13:23
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T19:05:18.419] [ERROR] error - ReferenceError: util is not defined
+    at C:\manager-server\routes\userSig.js:14:14
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T19:07:28.114] [ERROR] error - ReferenceError: userSig is not defined
+    at C:\manager-server\routes\userSig.js:14:28
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T19:08:27.135] [ERROR] error - ReferenceError: userSig is not defined
+    at C:\manager-server\routes\userSig.js:14:28
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T19:09:04.684] [ERROR] error - TypeError: Api.genUserSig is not a function
+    at C:\manager-server\routes\userSig.js:13:22
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\manager-server\node_modules\koa-router\lib\router.js:346:16
+[2022-03-17T20:27:04.516] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T20:27:16.582] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T20:28:26.965] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T20:29:36.497] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T20:30:24.453] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T20:50:00.343] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T20:52:42.239] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T20:54:28.565] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T20:55:06.293] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T20:59:30.648] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:03:41.794] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:11:45.521] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:15:25.241] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:15:28.928] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:15:38.901] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:15:55.730] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:16:27.864] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:18:39.785] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:20:36.250] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:25:30.673] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:26:14.161] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:27:46.302] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:28:24.682] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T21:31:16.494] [ERROR] error - TypeError: Cannot read properties of null (reading 'price')
+    at C:\manager-server\routes\order.js:16:30
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\manager-server\app.js:51:3
+    at async serve (C:\manager-server\node_modules\koa-static\index.js:53:9)
+    at async cors (C:\manager-server\node_modules\koa2-cors\dist\index.js:91:9)
+[2022-03-17T23:28:31.107] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:30:01.538] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:35:00.932] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:37:15.808] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:37:22.674] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:37:31.321] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:38:33.052] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:39:17.440] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:40:35.617] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:42:29.545] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:44:50.691] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:44:56.478] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:45:57.667] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:47:02.595] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:49:08.581] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:50:25.636] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:50:43.652] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:50:45.338] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:50:46.475] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:50:48.883] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:50:50.046] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:52:31.001] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:52:31.121] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:52:31.227] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:52:34.732] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:52:51.129] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:52:57.176] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:55:48.286] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:55:49.490] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:55:50.898] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:59:08.344] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:59:11.082] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
+[2022-03-17T23:59:55.515] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'name')
+    at C:\manager-server\app.js:60:52
+    at async C:\manager-server\app.js:51:3
